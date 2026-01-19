@@ -1,0 +1,27 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+main
+program
+
+# Debug files
+*.dSYM/
+*.pdb
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build directories
+build/
+cmake-build-*/
+
+# Dependency directories
+.cache/
